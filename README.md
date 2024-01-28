@@ -4,7 +4,7 @@ Java/Java Spring Boot application with a 4-layered architecture: data access lay
 
 Key concepts are encapsulation, inheritance, polymorphism, exceptions, reading from files and storing in files, reading from a database and storing from a database.
 
-Application for a computer repair shop with a graphical interface. The application allows:
+Desktop application for a computer repair shop with a graphical interface. The application allows:
 1. Add computer repair request
 2. Update computer repair request
 3. Delete computer repair request
